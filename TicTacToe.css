@@ -1,0 +1,14 @@
+table{
+	display:flex;
+	justify-content: center;
+	border-collapse: collapse;
+}
+
+td{
+	border: 2px black solid;
+	padding: 150px;
+}
+
+.noPadding{
+	padding: 0;
+}
